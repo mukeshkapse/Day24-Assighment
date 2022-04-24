@@ -1,0 +1,18 @@
+package Day24;
+
+import java.awt.Container;
+import java.util.List;
+
+import Day9.Contact;
+
+public class UC12Sort {
+	private static final List<Contact> Container = null;
+	private List<Contact> contacts;
+
+	public List<Contact> getContacts() {
+		return Container;
+	}
+	public void setContacts(List<Contact> contacts) {
+		this.contacts = contacts;
+	}
+}
